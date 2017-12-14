@@ -26,4 +26,4 @@ Socket 通信
 ![image](https://github.com/MrXCQ/LearnSocket/blob/master/readMe/OSI.jpg)
 
 七层结构
-![image](https://github.com/MrXCQ/LearnSocket/blob/master/readMe/senven.png)
+![image](https://github.com/MrXCQ/LearnSocket/blob/master/readMe/seven.png)
