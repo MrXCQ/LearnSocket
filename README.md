@@ -22,3 +22,8 @@ Socket 通信
  数据报文->数据包->数据帧->比特流(二进制)-->比特流->数据帧->数据包->数据报文  
   
  socket, "插口", "套接字", 长连接, 存在于应用层和传输层之间, 提供一种封装, 方便进行通信  
+
+![image](https://github.com/MrXCQ/LearnSocket/blob/master/readMe/OSI.jpg)
+
+七层结构
+![image](https://github.com/MrXCQ/LearnSocket/blob/master/readMe/senven.png)
