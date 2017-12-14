@@ -1,5 +1,5 @@
 # LearnSocket
-Socket 通信
+## Socket 通信
  OSI(开放式系统互联), 由ISO(国际化标准组织)制定  
  1. 应用层  
  2. 表示层  
@@ -25,5 +25,6 @@ Socket 通信
 
 ![image](https://github.com/MrXCQ/LearnSocket/blob/master/readMe/OSI.jpg)
 
-七层结构
+## 七层结构
+
 ![image](https://github.com/MrXCQ/LearnSocket/blob/master/readMe/seven.png)
